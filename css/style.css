@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.testimonial{
+    width: 100%;
+    background: url(../img/testmonial.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.test-bg{
+    background-color: #001D38;
+    opacity: 0.7;
+    padding: 80px 0;
+}
+.test-content p{
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin: 34px 0;
+    padding: 0 120px;
+}
+.user-details h5{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+.user-details h6{
+    font-size: 13px;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
